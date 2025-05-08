@@ -7,8 +7,7 @@ This project focuses on developing a deep learning model to classify breast canc
 ---
 
 ## Dataset Used
-- **Source**: Breast Cancer Wisconsin (Diagnostic) Dataset
-- **Features**: 30 real-valued input features computed from digitized images of a fine needle aspirate (FNA) of a breast mass.
+- **Source**: Breast Cancer Dataset
 - **Target**: Diagnosis (M = malignant, B = benign)
 
 ---
